@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8b72030-b82b-437a-88ec-eae36554f2b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Arrayforeach/Arrayforeach.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrayloop/Arrayloop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Breakloop/Breakloop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Continue/Continue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dowhile/Dowhile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Else/Else.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Elseif/Elseif.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../For/For.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Foreach/Foreach.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../If/If.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ifcompare/Ifcompare.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multidimensional/Multidimensional.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multipleloop/Multipleloop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multiplemethod/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multiplemethod/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multiplemethod/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multiplemethod/Multiplemethod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multiplemethod/Multiplemethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Switch/Switch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ternaryoperator/Ternaryoperator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../While/While.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../int/Int.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../int/int.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mathrandom/mathrandom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method/Method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiplearraysloop/Multiplearraysloop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string combine/string combine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string/string.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stringconcat/stringconcat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sum/sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sum/sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AkQ0nexIPkpwBPlkxSe69Em0ox" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8b72030-b82b-437a-88ec-eae36554f2b0" name="Changes" comment="" />
+      <created>1655550887651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655550887651</updated>
+    </task>
+    <servers />
+  </component>
+</project>
